@@ -21,5 +21,5 @@
 </div>
   
   ### <div >
-  <img align="right" alt="Caio-pic" height="100" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901633502024458280/Webp.net-gifmaker.gif">
+  <img align="right" alt="Caio-pic" height="140" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
 </div>  
