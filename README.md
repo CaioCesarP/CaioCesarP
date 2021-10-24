@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/profile-caio-césar-link/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div >
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901633502024458280/Webp.net-gifmaker.gif">
+  <img align="right" alt="Caio-pic" height="100" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901633502024458280/Webp.net-gifmaker.gif">
 </div>  
   
 <br> 
