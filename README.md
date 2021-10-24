@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/CaioCesarP">
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 <div >
-  <img align="right" alt="Caio-pic" height="140" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
+  <img align="right" alt="Caio-pic" height="120" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
 </div>    
   
 ### <div> 
