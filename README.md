@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/CaioCesarP">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="left" height="190em" src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div> 
   <a href="https://www.instagram.com/_caio.cp_/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,6 +20,6 @@
  
 </div>
   
-<div >
-  <img align="right" alt="Caio-pic" height="160" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
+### <div >
+  <img align="right" alt="Caio-pic" height="140" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
 </div>  
