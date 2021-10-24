@@ -11,7 +11,7 @@
 </div>
 
 
-<div style="display: inline_block"><br>
+### <div style="display: inline_block"><br>
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,6 @@
  
 </div>
   
-  ### <div >
+<div >
   <img align="right" alt="Caio-pic" height="140" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
 </div>  
