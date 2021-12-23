@@ -16,8 +16,8 @@
 
 
 <div style="display: inline_block"><br>
-  <!--futuramente pretendo estudar React.js e PHP
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <!--futuramente pretendo estudar PHP
   <img align="center" alt="Caio-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">-->
   <!--atualmente praticando o javascript-->
   <img align="center" title="ESTUDANDO" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
