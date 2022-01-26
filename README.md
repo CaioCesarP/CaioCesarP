@@ -11,8 +11,9 @@
   
 ### <div> 
   <a href = "mailto:caiocesarworks@gmail.com?subject=Entrando em contato" title="caiocesarworks@gmail.com" target="_blank" ><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/profile-caio-césar-link/" title="linkedin" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/profile-caio-césar-link/" title="Linkedin" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5585997978280" title="Whatsapp" target="_blank" ><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://vercel.com/caiocesarp" title="Vercel" target="_black"><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
 
 
