@@ -4,7 +4,9 @@
     <div class="stats" align="center" margin="2rem">
         <a href="https://github.com/CaioCesarP">
             <img
-                src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+                height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+            <img
+                height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilavirna&layout=compact&langs_count=7&theme=dracula"/>
         </a>
     </div>
     <br />
