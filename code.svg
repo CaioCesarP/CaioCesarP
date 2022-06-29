@@ -10,7 +10,25 @@
                 aling-items: center;
             }
 
-            .container .stats {
+            h3 {
+                font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+            }
+
+            p {
+                font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+            }
+
+            <!-- .container .stats {
                 display: flex;
                 flex-direction: row;
                 justify-content: space-around;
@@ -40,10 +58,10 @@
                 border-radius: 3rem;
                 width: auto;
                 heigth: 215px;
-            }
+            } -->
             </style>
             <div class="container">
-                <div class="stats">
+                <!-- <div class="stats">
                     <a href="https://github.com/CaioCesarP">
                         <img src="https://github-readme-stats.vercel.app/api?username=CaioCesarP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
                         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilavirna&layout=compact&langs_count=7&theme=dracula"/>
@@ -72,8 +90,9 @@
                                                     <div clas="funny">
                                                         <img alt="Caio-pic" src="https://cdn.discordapp.com/attachments/524055688540848128/901635038041477151/media.io_sRfmmZmX.gif">
                                                         </div>
-                                                    </div>
-
+                                                    </div> -->
+                                                    <h3>teste teste</h3>
+                                                    <p>bla bla bla</p>
                                                 </div>
                                             </foreignObject>
                                         </svg>
