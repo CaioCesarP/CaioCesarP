@@ -1,4 +1,4 @@
-### <h2 style="color: blueviolet; ">Olá, eu sou o Caio César 👋</h2>
+### <h2 style="color: blueviolet; ">Oie, eu sou o Caio César Ponte 👋</h2>
 
 <div class="container">
     <div class="stats" align="center" margin="2rem">
@@ -29,7 +29,7 @@
     <div class="knowledge" align="center">
       <img align="center" title="Intermediário" alt="Caio-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img align="center" title="Intermediário" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="Intermediário" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="Iniciante" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" title="Intermediário" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" title="Intemediário" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="Intermediário" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
